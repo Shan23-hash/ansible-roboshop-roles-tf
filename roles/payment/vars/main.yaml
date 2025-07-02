@@ -1,0 +1,5 @@
+CART_HOST: cart.daws-shankran.site
+USER_HOST: user.daws-shankran.site
+RABBITMQ_HOST: rabbitmq.daws-shankran.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
