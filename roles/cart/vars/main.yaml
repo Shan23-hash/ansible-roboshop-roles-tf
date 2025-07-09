@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.daws-shankran.site
-REDIS_HOST: redis.daws-shankran.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws-shankran.site
+REDIS_HOST: redis-{{ env }}.daws-shankran.site

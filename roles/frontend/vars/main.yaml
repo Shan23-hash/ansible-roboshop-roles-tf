@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.daws-shankran.site
-USER_HOST: user.daws-shankran.site
-CART_HOST: cart.daws-shankran.site
-SHIPPING_HOST: shipping.daws-shankran.site
-PAYMENT_HOST: payment.daws-shankran.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.daws-shankran.site
+USER_HOST: user.backend-{{ env }}.daws-shankran.site
+CART_HOST: cart.backend-{{ env }}.daws-shankran.site
+SHIPPING_HOST: shipping.backend-{{ env }}.daws-shankran.site
+PAYMENT_HOST: payment.backend-{{ env }}.daws-shankran.site

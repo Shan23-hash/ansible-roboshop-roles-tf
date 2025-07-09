@@ -1,2 +1,2 @@
-REDIS_HOST: redis.daws-shankran.site
-MONGODB_HOST: mongodb.daws-shankran.site
+REDIS_HOST: redis-{{ env }}.daws-shankran.site
+MONGODB_HOST: mongodb-{{ env }}.daws-shankran.site
